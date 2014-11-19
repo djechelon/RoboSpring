@@ -102,9 +102,10 @@ If you are familiar with RoboGuice, you will notice, that `InjectView` has no ma
 
 ## RoboSpring in Production
 
-I am using RoboSpring in my Android Client for the RemoteUI Project. Get more information about it at
+RoboSpring is currentlu being used in production applications
 
-http://www.remoteui.org
+RemouteUI - http://www.remoteui.org
+Wifi AV - https://play.google.com/store/apps/details?id=org.zighinetto.wifitav
 
 **HAPPY INJECTING!**
 
